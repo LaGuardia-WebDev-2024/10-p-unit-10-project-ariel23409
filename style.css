@@ -1,5 +1,6 @@
 body {
-  background-color: black;
+  
+  background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/10/Hot-pink-wallpapers.jpg"); 
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -20,7 +21,6 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
@@ -34,7 +34,7 @@ html{
 }
 
 h2{
-  color: black;
+  color: pink;
 }
 
 #start{
@@ -44,3 +44,9 @@ h2{
 #end{
   text-align: right;
 }
+
+h3{
+  color: pink; 
+}
+
+
